@@ -111,3 +111,31 @@ Use vários cronômetros para controlar etapas da aula
 Combine tempos curtos para atividades rápidas
 
 Ideal para professores, tutores e apresentações
+
+
+
+🤝 Contribuições!!!!!!!!!
+
+Contribuições são muito bem-vindas!
+
+Ideias de melhorias:
+
+Interface mais acessível
+
+Configuração via teclado
+
+Exportar presets de tempo
+
+Suporte a fullscreen
+
+Internacionalização (PT/EN)
+
+Como contribuir
+
+Faça um fork do projeto
+
+Crie uma branch (feature/minha-melhoria)
+
+Commit suas mudanças
+
+Abra um Pull Request
