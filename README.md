@@ -18,6 +18,61 @@ para uso em aulas de programação.
 - Python
 - Pygame
 
+##  Como criar o app >>>>>
+Estrutura do Projeto
+cronometro-pygame/
+├── Relogio.py        # Código principal do aplicativo
+├── beep.wav          # Som de alerta ao finalizar o tempo
+
+
+📂 Criando os arquivos do projeto
+1️⃣ Criar a pasta do projeto
+dentro da pasta vai o arquivo .py ( renomeie com nome relogio) 
+dentro de outra pasta basta criar arquivo .py e o arquivo de som chamado de (beep)
+
+2️⃣ Criar o arquivo Python (Relogio.py)
+
+Crie o arquivo manualmente ou via terminal:
+
+touch Relogio.py
+
+
+Ou no Windows:
+
+type nul > Relogio.py
+
+
+Abra o arquivo em um editor de código (VS Code, PyCharm, etc.)
+e cole o código principal do cronômetro.
+
+📌 Importante: o arquivo deve se chamar exatamente Relogio.py
+pois o código utiliza o caminho do próprio arquivo para carregar o som.
+
+3️⃣ Adicionar o arquivo de som (beep.wav)
+
+Coloque um arquivo de áudio no formato .wav
+
+O nome deve ser exatamente:
+
+beep.wav
+
+
+O arquivo deve ficar na mesma pasta do Relogio.py
+
+📢 O som é utilizado como alerta quando o tempo chega a zero.
+
+Caso queira trocar o som, basta substituir o arquivo mantendo o mesmo nome.
+
+4️⃣ Criar o arquivo requirements.txt
+touch requirements.txt
+
+
+Conteúdo:
+
+pygame>=2.5.0
+
+
+
 ## ▶️ Como executar
 ```bash
 pip install -r requirements.txt
